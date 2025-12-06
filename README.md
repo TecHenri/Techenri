@@ -2,22 +2,6 @@
 
 Welcome! I'm **Yao Henri**, a seasoned **Software Developer**, and a passionate problem solver. This GitHub repository is a hub for my projects, tools, and educational content aimed at empowering developers worldwide.
 
----
-
-## 🚀 **What You'll Find Here**
-
-- **Innovative Projects**: From web apps to advanced Python-based tools, my repositories showcase projects designed for real-world applications.
-- **Educational Resources**: Challenges and solutions that help developers sharpen their skills (e.g., [Problems](https://github.com/Hugues-DTANKOUO/problems)).
-- **Community-Driven Development**: Contributions and insights from developers I've mentored through my extensive social media presence.
-
----
-
-## 🌟 **Why Follow My Work?**
-
-### **👩‍🏫 Python Training Expertise**
-I am a **Python Trainer** with experience in corporate settings, having trained over **50 developers** across various countries. My training approach combines hands-on challenges, real-world scenarios, and interactive tools.
-
-
 ## 🛠 **My Skill Set**
 
 ### **Languages & Frameworks**
