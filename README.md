@@ -13,7 +13,7 @@ Welcome! I'm **Yao Henri**, a seasoned **Software Developer**, and a passionate 
 
 
 ### **Other Expertise**
-- Agile Methodologies (SAFe, Scrum).
+- Agile Methodologies (Kaban, Scrum).
 - Coaching and mentoring teams to achieve technical excellence.
 - Building robust CI/CD pipelines for scalable applications.
 
@@ -48,8 +48,6 @@ I love connecting with like-minded individuals. Here's where you can find me:
 ---
 
 ## 📄 **License**
-
-Most of my projects are licensed under the **MIT License**, unless otherwise stated. See the respective `LICENSE` files for details.
 
 ---
 
