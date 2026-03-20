@@ -1,4 +1,4 @@
-# Welcome to Hugues Dtankouo's Projects Repository 👨‍💻
+# Welcome to Yao Henri's Projects Repository 👨‍💻
 
 Welcome! I'm **Yao Henri**, a seasoned **Software Developer**, and a passionate problem solver. This GitHub repository is a hub for my projects, tools, and educational content aimed at empowering developers worldwide.
 
