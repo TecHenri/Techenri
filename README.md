@@ -1,58 +1,67 @@
-# Welcome to Yao Henri's Projects Repository 👨‍💻
+# 👨‍💻 Yao Henri Kouassi — Software Developer
 
-Welcome! I'm **Yao Henri**, a seasoned **Software Developer**, and a passionate problem solver. This GitHub repository is a hub for my projects, tools, and educational content aimed at empowering developers worldwide.
+Hi! I'm **Yao Henri Kouassi**, a Software Developer passionate about learning, building, and solving real-world problems with **Python and C**.  
 
-## 🛠 **My Skill Set**
-
-### **Languages & Frameworks**
-- **Python**: Proficient in FastAPI, Django, Flask, and data-centric libraries.
-- **Frontend**: Angular, React, and modern TypeScript frameworks.
-- **Database Management**: PostgreSQL, MySQL, MongoDB.
-
-### **Certifications**
-
-
-### **Other Expertise**
-- Agile Methodologies (Kaban, Scrum).
-- Coaching and mentoring teams to achieve technical excellence.
-- Building robust CI/CD pipelines for scalable applications.
+I enjoy building **efficient systems**, working with **data**, and solving **real-world technical problems**.  
+This GitHub showcases my projects, experiments, and continuous learning journey.
 
 ---
 
+## 🔥 Featured Projects
 
-## 🌍 **Contribute to My Work**
+- 📊 **Data Analysis Projects** – Exploring datasets, extracting insights, and building visualizations  
+- ⚙️ **C System Projects** – Low-level programming, performance optimization, and custom tools  
+- 🌐 **Backend Applications** – APIs and scalable backend systems  
 
-### 💡 Suggestions & Contributions
-If you have ideas or want to contribute to any of my projects:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit and push your changes
-  ```bash
-  git commit -m "Add a new feature
-  git push origin feature/your-feature
-  ```
-4. Open a pull request
----
-
-## 📬 **Connect With Me**
-
-I love connecting with like-minded individuals. Here's where you can find me:
-
-- 📧 **Email**: [kouassiyaohenri@gmail.com](mailto:kouassiyaohenri@gmail.com)
-- 🔗 **LinkedIn**: [Yao Henri](https://www.linkedin.com/in/yao-henri-kouassi-952b7b178/)
-- 🔗 **GitHub**: [TecHenri](https://github.com/TecHenri)
+👉 Check my repositories below to see my work in action.
 
 ---
 
-## 📄 **License**
+## 🛠 Tech Stack
+
+### 💻 Languages
+- Python  
+- C / C++  
+- SQL  
+
+### 🧰 Tools & Technologies
+- PostgreSQL, ClickHouse, MySQL  
+- Git, Linux, CMake  
+- libcurl  
 
 ---
 
-## 🎉 **Thank You for Visiting!**
+## 🚀 What I Focus On
 
-Thank you for exploring my projects! I hope you find something here that inspires you, helps you grow as a developer, or simply solves a problem you're facing.
+- 📊 Data Analysis & Data Engineering  
+- ⚙️ System Programming (C / performance)  
+- 🌐 Backend Development  
+- 🧠 Problem Solving & Algorithms  
 
-Feel free to explore, learn, and contribute! 🚀
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Engineering  
+- Backend system design & scalability  
+- Cybersecurity fundamentals  
+
+---
+
+## 📈 What Makes Me Different
+
+- Strong foundation in **low-level programming (C)**  
+- Ability to work on **data-driven projects**  
+- Experience with **real-world tools and systems**  
+- Focus on writing **clean, structured, and documented code**  
+
+---
+
+## 🤝 Contributing
+
+If you'd like to contribute or suggest improvements:
+
+```bash
+git checkout -b feature/your-feature
+git commit -m "Add your feature"
+git push origin feature/your-feature
