@@ -65,9 +65,10 @@ If you'd like to contribute or suggest improvements:
 git checkout -b feature/your-feature
 git commit -m "Add your feature"
 git push origin feature/your-feature
-
+```
 
 ## 📬 **Connect With Me**
+
 I love connecting with like-minded individuals. Here's where you can find me:
 - 📧 **Email**: [kouassiyaohenri@gmail.com](mailto:kouassiyaohenri@gmail.com)
 - 🔗 **LinkedIn**: [Yao Henri](https://www.linkedin.com/in/yao-henri-kouassi-952b7b178/)
